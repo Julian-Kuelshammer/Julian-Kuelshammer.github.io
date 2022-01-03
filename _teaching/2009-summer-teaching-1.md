@@ -1,10 +1,12 @@
 ---
-title: "Logic and discrete structures for computer scientists"
+title: "Seminar on representation theory"
 collection: teaching
 type: "Bachelor course"
 role: "Teaching assistant"
-permalink: /teaching/2007-winter-teaching-1
+permalink: /teaching/2009-summer-teaching-1
 venue: "University of Bonn"
-date: 2007-10-01
+date: 2009-04-01
 location: "Bonn, Germany"
 ---
+
+

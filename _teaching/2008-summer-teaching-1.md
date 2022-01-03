@@ -1,7 +1,7 @@
 ---
 title: "Linear algebra for computer scientists"
 collection: teaching
-type: "Workshop"
+type: "Bachelor course"
 role: "Teaching assistant"
 permalink: /teaching/2008-summer-teaching-1
 venue: "University of Bonn"
