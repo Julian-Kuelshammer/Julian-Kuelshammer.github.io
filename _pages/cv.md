@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Diploma in Mathematics (Second Subject: Computer Science) at the University of Bonn, Germany, December 2009
+* Ph.D in Mathematics at the University of Kiel, Germany, May 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2007 -- September 2009: Student assistant
+  * University of Bonn, Germany
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* December 2009 -- September 2012: Scientific Assistant
+  * University of Kiel, Germany
+
+* October 2012 -- March 2016: Scientific Assistant
+  * University of Stuttgart, Germany
+
+* April 2016 -- March 2018: DFG Postdoc
+  * University of Stuttgart, Germany
+
+* April 2018 -- August 2018: Scientific Assistant
+  * University of Stuttgart, Germany
+
+* September 2018 -- today: Senior lecturer/Associate professor 
+  * Uppsala University, Sweden
 
 Publications
 ======
@@ -53,7 +51,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Academic distinctions
+=====
+* International Conference on Representations of Algebras (ICRA) 2018 Award
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Maintainer of [FDLIST](https://fdlist.math.uni-bielefeld.de/)
+* Organiser of [FD Seminar](https://www.fd-seminar.xyz/)
