@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Julian Külshammer"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "julian.jpg"
+  bio              : "Associate professor working in representation theory"
+  location         : "Uppsala, Sweden"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=S2KJLUIAAAAJ&hl=de"
+  email            : "julian.kuelshammer@math.uu.se"
+  researchgate     : "https://www.researchgate.net/profile/Julian-Kuelshammer-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   orcid            : "http://orcid.org/0000-0002-1216-4024"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  mathoverflow     : "https://mathoverflow.net/users/15887/julian-kuelshammer"
   steam            :
   tumblr           :
   twitter          : "juliankuelshammer"
@@ -246,7 +246,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Stockholm # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
