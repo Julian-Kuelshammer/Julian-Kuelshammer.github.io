@@ -50,6 +50,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %} {% if post.role == "Lecturer" %}
     {% include archive-single-cv.html %}
+  {% endif %}
   {% endfor %}</ul>
 
 Academic distinctions
