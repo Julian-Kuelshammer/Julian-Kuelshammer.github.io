@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Julian Külshammer"
 title_separator          : "-"
-name                     : &name "Julian Külshammer
+name                     : &name "Julian Külshammer"
 description              : &description "Associate professor working in representation theory"
 url                      : https://Julian-Kuelshammer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
