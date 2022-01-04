@@ -60,7 +60,7 @@ As Lecturer
 As Teaching Assistant
 -----
 
-<ul>{% for post in site.teaching %} {% if post.role == "Teaching&nbsp;Assistant" %}
+<ul>{% for post in site.teaching %} {% if post.role == "TeachingAssistant" %}
     {% include archive-single-cv.html %}
   {% endif %}
   {% endfor %}</ul>
