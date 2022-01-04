@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+This page gives a short summary about my mathematical interests. For more information, click on the menu above. 
 
 
 Research interests
