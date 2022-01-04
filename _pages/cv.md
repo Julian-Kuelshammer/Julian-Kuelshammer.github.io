@@ -48,7 +48,19 @@ Talks
   
 Teaching
 ======
+
+As Lecturer
+-----
+
   <ul>{% for post in site.teaching %} {% if post.role == "Lecturer" %}
+    {% include archive-single-cv.html %}
+  {% endif %}
+  {% endfor %}</ul>
+  
+As Teaching Assistant
+-----
+
+<ul>{% for post in site.teaching %} {% if post.role == "Teaching Assistant" %}
     {% include archive-single-cv.html %}
   {% endif %}
   {% endfor %}</ul>
