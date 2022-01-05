@@ -84,8 +84,9 @@ author:
   avatar           : "julian.jpg"
   bio              : "Associate professor working in representation theory"
   location         : "Uppsala, Sweden"
-  employer         :
+  employer         : "Uppsala University"
   pubmed           : 
+  arxiv            : "https://arxiv.org/search/?query=K%C3%BClshammer%2C+Julian&searchtype=all&source=header"
   googlescholar    : "https://scholar.google.com/citations?user=S2KJLUIAAAAJ&hl=de"
   email            : "julian.kuelshammer@math.uu.se"
   researchgate     : "https://www.researchgate.net/profile/Julian-Kuelshammer-2"
