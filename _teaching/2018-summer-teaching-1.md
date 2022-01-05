@@ -6,5 +6,6 @@ role: "Lecturer"
 permalink: /teaching/2018-summer-teaching-1
 venue: "University of Stuttgart"
 date: 2018-04-01
+semester: "Summer term 2018"
 location: "Stuttgart, Germany"
 ---

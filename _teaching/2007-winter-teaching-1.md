@@ -6,5 +6,6 @@ role: "Teaching assistant"
 permalink: /teaching/2007-winter-teaching-1
 venue: "University of Bonn"
 date: 2007-10-01
+semester: "Winter term 2007/08"
 location: "Bonn, Germany"
 ---
