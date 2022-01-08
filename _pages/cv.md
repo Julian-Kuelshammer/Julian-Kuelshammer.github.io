@@ -71,5 +71,6 @@ Academic distinctions
   
 Service
 ======
+* Programme Coordinator for the Master Programme in Mathematics at Uppsala University
 * Maintainer of [FDLIST](https://fdlist.math.uni-bielefeld.de/)
 * Organiser of [FD Seminar](https://www.fd-seminar.xyz/)
