@@ -1,6 +1,7 @@
 ---
 title: "Higher Nakayama algebras I: Construction"
 collection: publications
+type: journal
 permalink: /publication/2019-higher-nakayama-algebras-i-construction
 excerpt: 'text'
 date: 2019-07-31

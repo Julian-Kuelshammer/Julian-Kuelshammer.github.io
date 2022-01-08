@@ -1,6 +1,7 @@
 ---
 title: "Representation type of Frobenius--Lusztig kernels"
 collection: publications
+type: journal
 permalink: /publication/2013-representation-type-of-frobenius-lusztig-kernels
 excerpt: 'In this article, we show that almost all blocks of all Frobenius--Lusztig kernels are of wild representation type extending results of Feldvoss and Witherspoon, who proved this result for the principal block of the zeroth Frobenius–Lusztig kernel. Furthermore, we verify the conjecture that there are infinitely many Auslander--Reiten components for a finite-dimensional algebra of infinite representation type for selfinjective algebras whose cohomology satisfies certain finiteness conditions.'
 date: 2013-06-01
