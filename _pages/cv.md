@@ -33,6 +33,7 @@ Work experience
 
 * September 2018 -- today: Senior lecturer/Associate professor 
   * Uppsala University, Sweden
+  * Parental leave 100&#37;: January--August 2021
 
 Publications
 ======
@@ -71,6 +72,6 @@ Academic distinctions
   
 Service
 ======
-* Programme Coordinator for the Master Programme in Mathematics at Uppsala University
+* Programme Coordinator for the [Master Programme in Mathematics](https://www.uu.se/en/admissions/master/selma/program/?pKod=TMA2M) at Uppsala University
 * Maintainer of [FDLIST](https://fdlist.math.uni-bielefeld.de/)
 * Organiser of [FD Seminar](https://www.fd-seminar.xyz/)
