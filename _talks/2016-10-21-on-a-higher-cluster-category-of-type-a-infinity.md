@@ -1,5 +1,5 @@
 ---
-title: "On a higher cluster category of type $A_\infty$"
+title: "On a higher cluster category of type A<sub>∞</sub>$"
 collection: talks
 type: "Seminar talk"
 permalink: /talks/2016-10-21-on-a-higher-cluster-category-of-type-a-infinity
