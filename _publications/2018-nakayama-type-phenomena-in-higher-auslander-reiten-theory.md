@@ -3,6 +3,7 @@ title: "Nakayama-type phenomena in higher Auslander--Reiten theory"
 collection: publications
 type: survey
 permalink: /publication/2018-nakayama-type-phenomena-in-higher-auslander-reiten-theory
+authors: 'Gustavo Jasso, Julian Külshammer'
 excerpt: ''
 date: 2018-07-15
 venue: 'Contemporary Mathematics'

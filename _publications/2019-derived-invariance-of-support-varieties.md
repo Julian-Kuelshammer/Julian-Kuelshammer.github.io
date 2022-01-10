@@ -3,6 +3,7 @@ title: "Derived invariance of support varieties"
 collection: publications
 type: journal
 permalink: /publication/2019-derived-invariance-of-support-varieties
+authors: 'Julian Külshammer, Chrysostomos Psaroudakis, and Øystein Skartsæterhagen'
 excerpt: 'The (Fg) condition on Hochschild cohomology as well as the support variety theory are shown to be invariant under derived equivalence.'
 date: 2019-01-01
 venue: 'Proceedings of the American Mathematical Society'
