@@ -54,7 +54,7 @@ It is known that for a finite-dimensional vector space $$V$$, the dimension of $
 
 Prerequisites: _Linear algebra II. Linear algebra III could be useful as well_
 
-Early on, one learns about vector spaces over the real numbers. In later courses, vector spaces over finite fields are also considered. However, a field generally has at least two elements, $$0$$ and $$1$$, which are assumed to be distinct. In some areas of modern mathematics, the concept of a `field with one element` has appeared. This is not an actual object, but more of a guiding principle. While in more advanced settings, it is not even clear what the definitions in this theory are, there is some agreement that a vector space over the `field with one element` is just a pointed sets. The goal of this thesis project is to explore analogues of classical concepts in Linear Algebra in the case of the `field with one element`.  
+Early on, one learns about vector spaces over the real numbers. In later courses, vector spaces over finite fields are also considered. However, a field generally has at least two elements, $$0$$ and $$1$$, which are assumed to be distinct. In some areas of modern mathematics, the concept of a "field with one element" has appeared. This is not an actual object, but more of a guiding principle. While in more advanced settings, it is not even clear what the definitions in this theory are, there is some agreement that a vector space over the "field with one element" is just a pointed sets. The goal of this thesis project is to explore analogues of classical concepts in Linear Algebra in the case of the "field with one element".  
 
 ### Primes is in P 
 
@@ -92,7 +92,7 @@ Below I list some topics, which I could imagine giving out as master thesis, but
 
 Prerequisites: _Modules and homological algebra_ 
 
-Early on, one learns about vector spaces over the real numbers. In later courses, vector spaces over finite fields are also considered. However, a field generally has at least two elements, $$0$$ and $$1$$, which are assumed to be distinct. In some areas of modern mathematics, the concept of a `field with one element` has appeared. This is not an actual object, but more of a guiding principle. While in more advanced settings, it is not even clear what the definitions in this theory are, there is some agreement that a vector space over the `field with one element` is just a pointed sets. The goal of this project is to review the theory of representation theory of quivers over $$\mathbb{F}_1$$. 
+Early on, one learns about vector spaces over the real numbers. In later courses, vector spaces over finite fields are also considered. However, a field generally has at least two elements, $$0$$ and $$1$$, which are assumed to be distinct. In some areas of modern mathematics, the concept of a "field with one element" has appeared. This is not an actual object, but more of a guiding principle. While in more advanced settings, it is not even clear what the definitions in this theory are, there is some agreement that a vector space over the "field with one element" is just a pointed sets. The goal of this project is to review the theory of representation theory of quivers over $$\mathbb{F}_1$$. 
 
 ### Representation type of algebras over truncated polynomial rings
 
@@ -113,11 +113,11 @@ Prerequisites: _Modules and Homological Algebra_
 
 Each finite dimensional module over a finite dimensional algebra has a composition series, i.e. a filtration by submodules such that the corresponding subquotients are simple. An algebra is called a Nakayama algebra if every finite dimensional module has a unique composition series. The goal of this thesis is to review Fuller's recursive formula for the global dimension for Nakayama algebra. 
 
-### $$A_\infty$-algebras with enough idempotents
+### $$A_\infty$$-algebras with enough idempotents
 
 Prerequisites: _Modules and Homological Algebra_
 
-It is well-known that a small $$\Bbbk$$-linear category can equivalently be described by an algebra with enough idempotents. In 2016/17 Manuel Saorín wrote a paper generalising this to differential graded categories, i.e. categories with a self linear map $$d$$ such that $$d$$ satisfies the product rule, and $$d^2=0$$ (this is called a differential). The goal of this thesis project is to generalise this result even further to $A_\infty$-categories and develop a notion of $A_\infty$-algebra with enough idempotents. 
+It is well-known that a small $$\Bbbk$$-linear category can equivalently be described by an algebra with enough idempotents. In 2016/17 Manuel Saorín wrote a paper generalising this to differential graded categories, i.e. categories with a self linear map $$d$$ such that $$d$$ satisfies the product rule, and $$d^2=0$$ (this is called a differential). The goal of this thesis project is to generalise this result even further to $$A_\infty$$-categories and develop a notion of $$A_\infty$$-algebra with enough idempotents. 
 
 ### Representations of continuous quivers
 
