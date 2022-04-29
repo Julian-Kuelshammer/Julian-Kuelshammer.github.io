@@ -36,6 +36,12 @@ Former master students
 
 * [Sandra Berg](https://www.linkedin.com/in/sandra-berg-a68abb76/) (2020) [Global dimension of higher Nakayama algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1471880&dswid=848)
 
+Former bachelor students
+======
+
+* Simon Löfgren (2022) The Eisenstein integers and cubic reciprocity
+
+
 A selection of possible theses topics
 ======
 
