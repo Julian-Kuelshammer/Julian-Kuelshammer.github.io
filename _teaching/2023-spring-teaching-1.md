@@ -1,7 +1,7 @@
 ---
 title: "Perspectives on Mathematics"
 collection: teaching
-type: "Lecture"
+type: "Master course"
 role: "Lecturer"
 permalink: /teaching/2023-spring-teaching-1
 venue: "Uppsala University"

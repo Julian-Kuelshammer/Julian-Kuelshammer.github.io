@@ -1,7 +1,7 @@
 ---
 title: "Summer Math/IT Camp 2022 - Interactive Theorem Proving in Lean"
 collection: teaching
-type: "Lecture"
+type: "Bachelor course"
 role: "Lecturer"
 permalink: /teaching/2022-summer-teaching-1
 venue: "Uppsala University"
