@@ -34,7 +34,7 @@ Work experience
 * September 2018 -- today: Senior lecturer/Associate professor 
   * Uppsala University, Sweden
   * Parental leave 100&#37;: January--August 2021
-  * Docent title: 31.05.2022. [Docent lecture slides on Catalan combinatorics](/files/catalan_combinatorics.pdf)
+  * Docent title (roughly equivalent to German habilitation): 31.05.2022. [Docent lecture slides on Catalan combinatorics](/files/catalan_combinatorics.pdf)
 
 Publications
 ======
