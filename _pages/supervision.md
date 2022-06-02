@@ -98,8 +98,19 @@ Prerequisites: _Algebra II, and some familiarity with basic homological algebra 
 
 A standard method of proof in homological algebra is called diagram chasing. Roughly speaking one looks at some commutative diagram diagram of $$R$$-modules and homomorphisms and proves a statement by considering an element in one of these $$R$$-modules and chasing it through the diagram using injectivity, surjectivity of certain maps and exactness properties. The salamander lemma is a very general such lemma which can be proved using diagram chase and which has as a corollary some of the more familiar statements in homological algebra which are usually proven using diagram chasing, e.g. the snake lemma. 
 
+### Miscellaneous
 
+#### Catalan combinatorics
 
+Prerequisites: _Algebra I, possibly Combinatorics_ 
+
+The Catalan numbers 1,1,2,5,14,42,132,... is probably the most ubiquitous sequence in mathematics. They count various types of objects, for example triangulations of convex polygons, or binary trees. The purpose of the thesis is to explore the properties of this sequence and the proof technique of a bijective proof.
+
+#### Theorem proving in Lean
+
+Prerequisites: _Any proof-based course in mathematics_
+
+Recently, the possibility to do interactive theorem proving with the help of a computer has gained a lot of popularity. The goal of the thesis would be to explore this possibility with the favourite kind of mathematics you learned during your undergraduate by implementing it in Lean and writing about the process, difficulties you encountered, design decisions you took, and what you learned along the way. 
 
 
 Master theses
@@ -132,7 +143,7 @@ Each finite dimensional module over a finite dimensional algebra has a compositi
 
 #### $$\mathbb{F}_1$$-representation theory
 
-Prerequisites: _Modules and homological algebra_ 
+Prerequisites: _Modules and Homological Algebra_ 
 
 Early on, one learns about vector spaces over the real numbers. In later courses, vector spaces over finite fields are also considered. However, a field generally has at least two elements, $$0$$ and $$1$$, which are assumed to be distinct. In some areas of modern mathematics, the concept of a "field with one element" has appeared. This is not an actual object, but more of a guiding principle. While in more advanced settings, it is not even clear what the definitions in this theory are, there is some agreement that a vector space over the "field with one element" is just a pointed sets. The goal of this project is to review the theory of representation theory of quivers over $$\mathbb{F}_1$$. 
 
