@@ -29,7 +29,7 @@ Co-supervisor
 
 * [Christoffer Söderberg](https://katalog.uu.se/profile/?id=N18-1430) (2019-- ), main supervisor: Martin Herschend.
 * [Matteusz Stroinski](https://katalog.uu.se/empinfo/?id=N20-1172) (2020-- ), main supervisor: Walter Mazorchuk.
-
+* [Jonathan Lindell](https://katalog.uu.se/profile/?id=N20-1265) (2022-- ), main supervisor: Seidon Alsaody.
 
 Former master students
 ======
