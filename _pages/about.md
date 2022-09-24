@@ -21,7 +21,7 @@ My research interests include
   - (Generalised) species of algebras
   - Biserial algebras
 
-Algebra and geometry group in Uppsala
+Algebra in Uppsala
 =====
 
 I am part of the Algebra, Logic and Representation theory group of Uppsala University which also includes [Seidon Alsaody](https://katalog.uu.se/profile/?id=N9-61), [Veronica Crispin](https://katalog.uu.se/empinfo/?id=N10-872), [Martin Herschend](http://www2.math.uu.se/~martinh/), [Hankyung Ko](https://sites.google.com/view/hankyung-ko/home), and [Walter Mazorchuk](http://www2.math.uu.se/~mazor/) as permanent staff, and currently one postdoc and 9 PhD students. 
