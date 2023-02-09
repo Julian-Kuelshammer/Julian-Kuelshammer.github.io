@@ -22,6 +22,7 @@ Main supervisor
   * Publications: 
     * [The Ext-algebra of standard modules over dual extension algebras](https://arxiv.org/abs/2011.11107), Preprint 2020.
     * (together with [Elin Persson Westin](https://sites.google.com/view/elin-persson-westin)) [Tilting modules and exceptional sequences for a family of dual extension algebras](https://arxiv.org/abs/2112.08891), Preprint 2021.
+    * [Exact Borel subalgebras of path algebras of quivers of Dynkin type A](https://arxiv.org/abs/2302.01828), Preprint 2023.
 * [Anna Rodriguez](https://katalog.uu.se/profile/?id=N21-1628) (2021-- )
 
 Co-supervisor
