@@ -39,7 +39,7 @@ Former master students
 Former bachelor students
 ======
 
-* Simon Löfgren (2022) The Eisenstein integers and cubic reciprocity
+* Simon Löfgren (2022) [The Eisenstein integers and cubic reciprocity](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1728553&dswid=8469)
 
 
 A selection of possible theses topics
