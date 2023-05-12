@@ -20,10 +20,12 @@ Main supervisor
 * [Markus Thuresson](https://katalog.uu.se/profile/?id=N18-1281) (2018-- )
   * Licenciate thesis: [The Ext-algebra of standard modules over dual extension algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1609927&dswid=7627)
   * Publications: 
-    * [The Ext-algebra of standard modules over dual extension algebras](https://arxiv.org/abs/2011.11107), Preprint 2020.
-    * (together with [Elin Persson Westin](https://sites.google.com/view/elin-persson-westin)) [Tilting modules and exceptional sequences for a family of dual extension algebras](https://arxiv.org/abs/2112.08891), Preprint 2021.
+    * [The Ext-algebra of standard modules over dual extension algebras](https://doi.org/10.1016/j.jalgebra.2022.05.011), J. Algebra 606, 2022.
+    * (together with [Elin Persson Westin](https://sites.google.com/view/elin-persson-westin)) [Tilting modules and exceptional sequences for a family of dual extension algebras](https://rdcu.be/dbYNR), Algebras and Representation theory, 2022.
     * [Exact Borel subalgebras of path algebras of quivers of Dynkin type A](https://arxiv.org/abs/2302.01828), Preprint 2023.
 * [Anna Rodriguez](https://katalog.uu.se/profile/?id=N21-1628) (2021-- )
+  * Publications:
+    * [Quasi-hereditary skew group algebras](https://arxiv.org/abs/2305.06825), Preprint 2023.
 
 Co-supervisor
 ------
@@ -36,6 +38,7 @@ Former master students
 ======
 
 * [Sandra Berg](https://www.linkedin.com/in/sandra-berg-a68abb76/) (2020) [Global dimension of higher Nakayama algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1471880&dswid=848)
+* [Jonathan Lindell](https://www.katalog.uu.se/profile/?id=N20-1265) (2023) Relative Hochschild (co)homology
 
 Former bachelor students
 ======
@@ -52,12 +55,6 @@ Bachelor theses
 Below I list some topics, which I could imagine giving out as master thesis, but I am happy to discuss and find a topic which is more suited for you. Feel free to contact me. 
 
 ### Linear Algebra
-
-#### The Erdős--Kaplansky theorem
-
-Prerequisites: _Linear algebra III, and some basic set theory like cardinal numbers_
-
-It is known that for a finite-dimensional vector space $$V$$, the dimension of $$V$$ is equal to the dimension of its dual space $$V^*$$. This is not longer true for infinite-dimensional vector spaces. The goal of this thesis project is to properly define the notion of dimension for infinite-dimensional vector spaces and, building on this, study the Erdős--Kaplansky theorem, which gives an answer to the question of what th dimension of $$V^*$$ is in case $$V$$ is infinite dimensional. 
 
 #### $$\mathbb{F}_1$$-linear algebra
 
