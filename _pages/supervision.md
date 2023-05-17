@@ -62,6 +62,12 @@ Prerequisites: _Linear algebra II. Linear algebra III could be useful as well_
 
 Early on, one learns about vector spaces over the real numbers. In later courses, vector spaces over finite fields are also considered. However, a field generally has at least two elements, $$0$$ and $$1$$, which are assumed to be distinct. In some areas of modern mathematics, the concept of a "field with one element" has appeared. This is not an actual object, but more of a guiding principle. While in more advanced settings, it is not even clear what the definitions in this theory are, there is some agreement that a vector space over the "field with one element" is just a pointed sets. The goal of this thesis project is to explore analogues of classical concepts in Linear Algebra in the case of the "field with one element".  
 
+#### Weyr canonical form
+Prerequisites: _Linear algebra III.
+
+In Linear Algebra III an important topic is that of Jordan canonical form of matrices. An alternative to this normal form, that is much less popular is called Weyr canonical form. It differs from the Jordan canonical form by some permutation of rows/columns. Though very similar, the Weyr canonical form has some advantages over Jordan canonical form, for example the set of matrices which commute with a matrix in Weyr canonical form admits an easier description. The goal of this thesis project is to describe the Weyr canonical form and investigate some of the advantages over the more familiar Jordan canonical form. 
+
+
 ### Number theory
 
 #### Primes is in P 
