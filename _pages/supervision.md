@@ -12,17 +12,11 @@ redirect_from:
 Current PhD students
 ======
 
-PhD projects in Sweden usually take about 5 years, including a 20% teaching load. Somewhere roughly in the middle, a licenciate thesis is handed in. PhD positions are usually advertised by the department in March of each year. Feel free to contact me via email if you are interested in writing a PhD thesis with me. As I currently already have two PhD students, I might refer you to colleagues in Algebra who have less PhD students than me. 
+PhD projects in Sweden usually take about 5 years, including a 20% teaching load. Somewhere roughly in the middle, a licenciate thesis is handed in. PhD positions are usually advertised by the department in March of each year. Feel free to contact me via email if you are interested in writing a PhD thesis with me. 
 
 Main supervisor
 ------
 
-* [Markus Thuresson](https://katalog.uu.se/profile/?id=N18-1281) (2018-- )
-  * Licenciate thesis: [The Ext-algebra of standard modules over dual extension algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1609927&dswid=7627)
-  * Publications: 
-    * [The Ext-algebra of standard modules over dual extension algebras](https://doi.org/10.1016/j.jalgebra.2022.05.011), J. Algebra 606, 2022.
-    * (together with [Elin Persson Westin](https://sites.google.com/view/elin-persson-westin)) [Tilting modules and exceptional sequences for a family of dual extension algebras](https://rdcu.be/dbYNR), Algebras and Representation theory, 2022.
-    * [Exact Borel subalgebras of path algebras of quivers of Dynkin type A](https://arxiv.org/abs/2302.01828), Preprint 2023.
 * [Anna Rodriguez](https://katalog.uu.se/profile/?id=N21-1628) (2021-- )
   * Publications:
     * [Quasi-hereditary skew group algebras](https://arxiv.org/abs/2305.06825), Preprint 2023.
@@ -33,6 +27,18 @@ Co-supervisor
 * [Christoffer Söderberg](https://katalog.uu.se/profile/?id=N18-1430) (2019-- ), main supervisor: Martin Herschend.
 * [Matteusz Stroinski](https://katalog.uu.se/empinfo/?id=N20-1172) (2020-- ), main supervisor: Walter Mazorchuk.
 * [Jonathan Lindell](https://katalog.uu.se/profile/?id=N20-1265) (2022-- ), main supervisor: Seidon Alsaody.
+
+Former PhD students
+======
+
+* [Markus Thuresson](https://katalog.uu.se/profile/?id=N18-1281) (2018--2023)
+  * Licenciate thesis: [The Ext-algebra of standard modules over dual extension algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1609927&dswid=7627)
+  * PhD thesis: [Ext-algebras of standard modules over quasi-hereditary algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1749517&dswid=-8501)
+  * Defense: 31/05/2023, Opponent: [Pierre-Guy Plamondon](https://lmv.math.cnrs.fr/laboratoire/annuaire/membres-du-laboratoire/pierre-guy-plamondon/), Committee: [Sira Gratz](https://pure.au.dk/portal/en/persons/sira-helena-gratz(7148d01f-b2d1-44e6-9376-529ddd3f5da0).html), [Ana Paula Santana](https://cmuc.mat.uc.pt/rdonweb/person/ppgeral.do?idpessoa=13), [Alexander Berglund](https://staff.math.su.se/alexb/)
+  * Publications: 
+    * [The Ext-algebra of standard modules over dual extension algebras](https://doi.org/10.1016/j.jalgebra.2022.05.011), J. Algebra 606, 2022.
+    * (together with [Elin Persson Westin](https://sites.google.com/view/elin-persson-westin)) [Tilting modules and exceptional sequences for a family of dual extension algebras](https://rdcu.be/dbYNR), Algebras and Representation theory, 2022.
+    * [Exact Borel subalgebras of path algebras of quivers of Dynkin type A](https://arxiv.org/abs/2302.01828), Preprint 2023.
 
 Former master students
 ======
@@ -63,10 +69,14 @@ Prerequisites: _Linear algebra II. Linear algebra III could be useful as well_
 Early on, one learns about vector spaces over the real numbers. In later courses, vector spaces over finite fields are also considered. However, a field generally has at least two elements, $$0$$ and $$1$$, which are assumed to be distinct. In some areas of modern mathematics, the concept of a "field with one element" has appeared. This is not an actual object, but more of a guiding principle. While in more advanced settings, it is not even clear what the definitions in this theory are, there is some agreement that a vector space over the "field with one element" is just a pointed sets. The goal of this thesis project is to explore analogues of classical concepts in Linear Algebra in the case of the "field with one element".  
 
 #### Weyr canonical form
-Prerequisites: _Linear algebra III.
+Prerequisites: _Linear algebra III._
 
 In Linear Algebra III an important topic is that of Jordan canonical form of matrices. An alternative to this normal form, that is much less popular is called Weyr canonical form. It differs from the Jordan canonical form by some permutation of rows/columns. Though very similar, the Weyr canonical form has some advantages over Jordan canonical form, for example the set of matrices which commute with a matrix in Weyr canonical form admits an easier description. The goal of this thesis project is to describe the Weyr canonical form and investigate some of the advantages over the more familiar Jordan canonical form. 
 
+#### Linear algebra over skew fields
+Prerequisites: _Linear algebra II, or better Linear algebra III._
+
+In basic undergraduate courses, linear algebra is developed over a ground field (or even a specific field like the real or complex numbers). The goal of this thesis project is to investigate theorems that still hold when one generalises to skew fields (that is one drops the assumption that the scalars commute), and also to study counterexamples to theorems that no longer hold in this setup, e.g. the transpose of an invertible matrix is not necessarily invertible. 
 
 ### Number theory
 
