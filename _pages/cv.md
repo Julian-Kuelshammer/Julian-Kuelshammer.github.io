@@ -35,6 +35,7 @@ Work experience
   * Uppsala University, Sweden
   * Parental leave 100&#37;: January--August 2021
   * Docent title (roughly equivalent to German habilitation): 31.05.2022. [Docent lecture slides on Catalan combinatorics](/files/catalan_combinatorics.pdf)
+  * Parental leave 50&#37;: September 2022--June 2023
 
 Publications
 ======
@@ -73,6 +74,6 @@ Academic distinctions
   
 Service
 ======
-* Programme Coordinator for the [Master Programme in Mathematics](https://www.uu.se/en/admissions/master/selma/program/?pKod=TMA2M) at Uppsala University
+* Programme Coordinator for the [Master Programme in Mathematics](https://www.uu.se/en/admissions/master/selma/program/?pKod=TMA2M) at Uppsala University (2020--2023 and 2023--2026)
 * Maintainer of [FDLIST](https://fdlist.math.uni-bielefeld.de/)
 * Organiser of [FD Seminar](https://www.fd-seminar.xyz/)
