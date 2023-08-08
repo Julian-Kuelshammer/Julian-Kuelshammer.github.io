@@ -45,12 +45,12 @@ Former master students
 
 * [Sandra Berg](https://www.linkedin.com/in/sandra-berg-a68abb76/) (2020) [Global dimension of higher Nakayama algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1471880&dswid=848)
 * [Jonathan Lindell](https://www.katalog.uu.se/profile/?id=N20-1265) (2023) Relative Hochschild (co)homology
+* Mika Norlén Jäderberg (2023) The Ext-Algebra of Standard Modules of Bound Twisted Double Incidence Algebras
 
 Former bachelor students
 ======
 
 * Simon Löfgren (2022) [The Eisenstein integers and cubic reciprocity](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1728553&dswid=8469)
-
 
 A selection of possible theses topics
 ======
@@ -97,6 +97,14 @@ The goal of this thesis project is to summarize the theory of linear codes with 
 Prerequisites: _Algebra II, some familiarity with Elementary Number Theory might be useful_
 
 Fermat's last theorem deals with the famous equation $$x^n+y^n=z^n$$. It was finally proven by Wiles and Taylor in the 90s, but many special cases were known before. The case of $n=4$ is covered in the lecture on Elementary Number Theory and uses the method of infinite descent. A bit harder is the case of $n=3$. One of the possible proofs uses the Eisenstein integers, the extension of the integers by the primitive third root of unity. The goal of this thesis is to outline the proof of this case, which was first noted by Euler using different methods. 
+
+### Abstract algebra
+
+#### Lüroth's theorem
+
+Prerequisites: _Algebraic structures_
+
+For a field $$K$$ and the field of rational functions $$K(X)$$, Lüroth's theorem states that any intermediate field is of the form $$K(f(X))$$ for some rational function in $$X$$. The goal of the thesis is to outline a proof of this theorem. If time and motivation permits, applications of this theorem in geometry can be discussed. 
 
 ### Category theory and homological algebra
 
