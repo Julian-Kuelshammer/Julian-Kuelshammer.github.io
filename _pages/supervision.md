@@ -154,7 +154,7 @@ Let $$kQ$$ be the path algebra of a finite quiver. Gabriel's theorem states that
 
 Prerequisites: _Modules and Homological Algebra_ 
 
-Each finite dimensional module over a finite dimensional algebra has a composition series, i.e. a filtration by submodules such that the corresponding subquotients are simple. An algebra is called a Nakayama algebra if every finite dimensional module has a unique composition series. For a Nakayama algebra there are only finitely many indecomposable modules up to isomorphism. Together with Gustavo Jasso, a few years ago we introduced the concept of a higher Nakayama algebra. These higher Nakayama algebras do in general no longer have only finitely many indecomposable modules up to isomorphism. The goal of this thesis project is to investigate under which conditions there are only finitely many indecomposable modules up to isomorphism. 
+Each finite dimensional module over a finite dimensional algebra has a composition series, i.e. a filtration by submodules such that the corresponding subquotients are simple. An algebra is called a Nakayama algebra if every finite dimensional module has a unique composition series. For a Nakayama algebra there are only finitely many indecomposable modules up to isomorphism. Together with Gustavo Jasso, a few years ago we introduced the concept of a higher Nakayama algebra. These higher Nakayama algebras do in general no longer have only finitely many indecomposable modules up to isomorphism. The goal of this thesis project is to investigate under which conditions there are only finitely many indecomposable modules up to isomorphism. The question has been partially answered in a preprint by Shen Li from 2023.
 
 #### Fuller's recursive formula for global dimension
 
