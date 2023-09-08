@@ -20,13 +20,14 @@ Main supervisor
 * [Anna Rodriguez](https://katalog.uu.se/profile/?id=N21-1628) (2021-- )
   * Publications:
     * [Quasi-hereditary skew group algebras](https://arxiv.org/abs/2305.06825), Preprint 2023.
+* [Jonathan Lindell](https://katalog.uu.se/profile/?id=N20-1265) (2023-- )
+
 
 Co-supervisor
 ------
 
 * [Christoffer Söderberg](https://katalog.uu.se/profile/?id=N18-1430) (2019-- ), main supervisor: Martin Herschend.
 * [Matteusz Stroinski](https://katalog.uu.se/empinfo/?id=N20-1172) (2020-- ), main supervisor: Walter Mazorchuk.
-* [Jonathan Lindell](https://katalog.uu.se/profile/?id=N20-1265) (2022-- ), main supervisor: Seidon Alsaody.
 
 Former PhD students
 ======
@@ -45,7 +46,7 @@ Former master students
 
 * [Sandra Berg](https://www.linkedin.com/in/sandra-berg-a68abb76/) (2020) [Global dimension of higher Nakayama algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1471880&dswid=848)
 * [Jonathan Lindell](https://www.katalog.uu.se/profile/?id=N20-1265) (2023) Relative Hochschild (co)homology
-* Mika Norlén Jäderberg (2023) The Ext-Algebra of Standard Modules of Bound Twisted Double Incidence Algebras
+* [Mika Norlén Jäderberg](https://liu.se/medarbetare/mikno49) (2023) [The Ext-Algebra of Standard Modules of Bound Twisted Double Incidence Algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1785822)
 
 Former bachelor students
 ======
