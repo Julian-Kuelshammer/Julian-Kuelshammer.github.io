@@ -17,7 +17,7 @@ PhD projects in Sweden usually take about 5 years, including a 20% teaching load
 Main supervisor
 ------
 
-* [Anna Rodriguez](https://katalog.uu.se/profile/?id=N21-1628) (2021-- )
+* [Anna Rodriguez Rasmussen](https://katalog.uu.se/profile/?id=N21-1628) (2021-- )
   * Publications:
     * [Quasi-hereditary skew group algebras](https://arxiv.org/abs/2305.06825), Preprint 2023.
 * [Jonathan Lindell](https://katalog.uu.se/profile/?id=N20-1265) (2023-- )
