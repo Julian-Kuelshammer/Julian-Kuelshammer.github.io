@@ -7,7 +7,7 @@ authors: 'Julian Külshammer'
 excerpt: ''
 date: 2023-09-29
 venue: 'preprint'
-paperurl: 'available upon request'
+paperurl: 'https://arxiv.org/abs/2312.13205'
 citation: 'Julian Külshammer (2023). &quot;Towards bound quivers for exact categories.&quot; In: <i>Preprint, survey for Proceedings of ICRA 2022</i>.'
 ---
 
