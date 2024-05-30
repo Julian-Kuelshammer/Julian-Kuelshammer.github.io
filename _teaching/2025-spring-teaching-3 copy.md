@@ -3,9 +3,9 @@ title: "Logic and proof techniques I"
 collection: teaching
 type: "Bachelor course"
 role: "Lecturer"
-permalink: /teaching/2024-spring-teaching-3
+permalink: /teaching/2025-spring-teaching-3
 venue: "Uppsala University"
-date: 2024-04-01
-semester: "Spring term 2024 (Period 4)"
+date: 2025-03-24
+semester: "Spring term 2025 (Period 4)"
 location: "Uppsala, Sweden"
 ---
