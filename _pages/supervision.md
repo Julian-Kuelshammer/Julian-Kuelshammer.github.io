@@ -18,8 +18,10 @@ Main supervisor
 ------
 
 * [Anna Rodriguez Rasmussen](https://katalog.uu.se/profile/?id=N21-1628) (2021-- )
+  * Licenciate thesis: [Quasi-hereditary skew group algebras](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-516595)
   * Publications:
     * [Quasi-hereditary skew group algebras](https://arxiv.org/abs/2305.06825), Preprint 2023.
+    * [Uniqueness up to inner automorphism of regular exact Borel subalgebras](https://arxiv.org/abs/2403.15580), Preprint 2024.
 * [Jonathan Lindell](https://katalog.uu.se/profile/?id=N20-1265) (2023-- )
 
 
@@ -47,11 +49,13 @@ Former master students
 * [Sandra Berg](https://www.linkedin.com/in/sandra-berg-a68abb76/) (2020) [Global dimension of higher Nakayama algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1471880&dswid=848)
 * [Jonathan Lindell](https://www.katalog.uu.se/profile/?id=N20-1265) (2023) Relative Hochschild (co)homology
 * [Mika Norlén Jäderberg](https://liu.se/medarbetare/mikno49) (2023) [The Ext-Algebra of Standard Modules of Bound Twisted Double Incidence Algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1785822)
+* [Staffan Leijnse](https://se.linkedin.com/in/staffan-leijnse-73b98744) (2023) [Persistent Homology: A Modern Application of Algebraic Topology in Data Analysis](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-520694)
 
 Former bachelor students
 ======
 
 * Simon Löfgren (2022) [The Eisenstein integers and cubic reciprocity](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1728553&dswid=8469)
+* Gabriel Rajkowksi (2024) A Morita theoretic approach to the Dold-Kan correspondence
 
 A selection of possible theses topics
 ======
