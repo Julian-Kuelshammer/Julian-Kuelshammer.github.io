@@ -47,7 +47,7 @@ Former master students
 ======
 
 * [Sandra Berg](https://www.linkedin.com/in/sandra-berg-a68abb76/) (2020) [Global dimension of higher Nakayama algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1471880&dswid=848)
-* [Jonathan Lindell](https://www.katalog.uu.se/profile/?id=N20-1265) (2023) Relative Hochschild (co)homology
+* [Jonathan Lindell](https://www.katalog.uu.se/profile/?id=N20-1265) (2022) [Relative Hochschild (co)homology](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-515067)
 * [Mika Norlén Jäderberg](https://liu.se/medarbetare/mikno49) (2023) [The Ext-Algebra of Standard Modules of Bound Twisted Double Incidence Algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1785822)
 * [Staffan Leijnse](https://se.linkedin.com/in/staffan-leijnse-73b98744) (2023) [Persistent Homology: A Modern Application of Algebraic Topology in Data Analysis](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-520694)
 
