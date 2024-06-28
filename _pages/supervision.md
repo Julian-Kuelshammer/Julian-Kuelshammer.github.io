@@ -40,8 +40,8 @@ Former PhD students
   * Defense: 31/05/2023, Opponent: [Pierre-Guy Plamondon](https://lmv.math.cnrs.fr/laboratoire/annuaire/membres-du-laboratoire/pierre-guy-plamondon/), Committee: [Sira Gratz](https://pure.au.dk/portal/en/persons/sira-helena-gratz(7148d01f-b2d1-44e6-9376-529ddd3f5da0).html), [Ana Paula Santana](https://cmuc.mat.uc.pt/rdonweb/person/ppgeral.do?idpessoa=13), [Alexander Berglund](https://staff.math.su.se/alexb/)
   * Publications: 
     * [The Ext-algebra of standard modules over dual extension algebras](https://doi.org/10.1016/j.jalgebra.2022.05.011), J. Algebra 606, 2022.
-    * (together with [Elin Persson Westin](https://sites.google.com/view/elin-persson-westin)) [Tilting modules and exceptional sequences for a family of dual extension algebras](https://rdcu.be/dbYNR), Algebras and Representation theory, 2022.
-    * [Exact Borel subalgebras of path algebras of quivers of Dynkin type A](https://arxiv.org/abs/2302.01828), Preprint 2023.
+    * (together with [Elin Persson Westin](https://sites.google.com/view/elin-persson-westin)) [Tilting modules and exceptional sequences for a family of dual extension algebras](https://rdcu.be/dbYNR), Algebras and Representation theory 26, 2023.
+    * [Exact Borel subalgebras of path algebras of quivers of Dynkin type A](https://doi.org/10.1016/j.jpaa.2023.107554), Journal of Pure and Applied Algebra 228 (5), 2024.
 
 Former master students
 ======
