@@ -29,7 +29,7 @@ Co-supervisor
 ------
 
 * [Christoffer Söderberg](https://katalog.uu.se/profile/?id=N18-1430) (2019-- ), main supervisor: Martin Herschend.
-* [Matteusz Stroinski](https://katalog.uu.se/empinfo/?id=N20-1172) (2020-- ), main supervisor: Walter Mazorchuk.
+* [Mateusz Stroinski](https://katalog.uu.se/empinfo/?id=N20-1172) (2020-- ), main supervisor: Walter Mazorchuk.
 
 Former PhD students
 ======
@@ -55,6 +55,7 @@ Former bachelor students
 ======
 
 * Simon Löfgren (2022) [The Eisenstein integers and cubic reciprocity](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1728553&dswid=8469)
+* Edvin Lundin (2023) [Erdős-Kaplansky satsen](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-515423)
 * Gabriel Rajkowksi (2024) A Morita theoretic approach to the Dold-Kan correspondence
 
 A selection of possible theses topics
