@@ -68,12 +68,6 @@ Below I list some topics, which I could imagine giving out as master thesis, but
 
 ### Linear Algebra
 
-#### $$\mathbb{F}_1$$-linear algebra
-
-Prerequisites: _Linear algebra II. Linear algebra III could be useful as well_
-
-Early on, one learns about vector spaces over the real numbers. In later courses, vector spaces over finite fields are also considered. However, a field generally has at least two elements, $$0$$ and $$1$$, which are assumed to be distinct. In some areas of modern mathematics, the concept of a "field with one element" has appeared. This is not an actual object, but more of a guiding principle. While in more advanced settings, it is not even clear what the definitions in this theory are, there is some agreement that a vector space over the "field with one element" is just a pointed sets. The goal of this thesis project is to explore analogues of classical concepts in Linear Algebra in the case of the "field with one element".  
-
 #### Weyr canonical form
 Prerequisites: _Linear algebra III._
 
@@ -140,20 +134,12 @@ Prerequisites: _Any proof-based course in mathematics_
 
 Recently, the possibility to do interactive theorem proving with the help of a computer has gained a lot of popularity. The goal of the thesis would be to explore this possibility with the favourite kind of mathematics you learned during your undergraduate by implementing it in Lean and writing about the process, difficulties you encountered, design decisions you took, and what you learned along the way. 
 
-
 Master theses
 ------
 
 Below I list some topics, which I could imagine giving out as master thesis, but I am happy to discuss and find a topic which is more suited for you. Feel free to contact me. 
 
 ### Representation theory of finite dimensional algebras
-
-#### Representation type of algebras over truncated polynomial rings
-
-Prerequisites: _Modules and Homological Algebra_
-
-Let $$kQ$$ be the path algebra of a finite quiver. Gabriel's theorem states that there are only finitely many indecomposable $$kQ$$-modules up to isomorphism if and only if the underlying graph of $$Q$$ is a Dynkin quiver. The goal of this thesis project is to discuss this theorem and generalisations where $$k$$ is replaced by $$k[x]/(x^n)$$. 
-
 
 #### Representation type of higher Nakayama algebras
 
@@ -167,13 +153,19 @@ Prerequisites: _Modules and Homological Algebra_
 
 Each finite dimensional module over a finite dimensional algebra has a composition series, i.e. a filtration by submodules such that the corresponding subquotients are simple. An algebra is called a Nakayama algebra if every finite dimensional module has a unique composition series. The goal of this thesis is to review Fuller's recursive formula for the global dimension for Nakayama algebra. 
 
+#### Gabriel's structure theorem
+
+Prerequisites: _Modules and Homological Algebra_
+
+Gabriel's structure theorem is one of the reasons why quivers are such a powerful tool within representation theory. It states that every finite-dimensional algebra over an algebraically closed field is Morita equivalent to the quotient of a path algebra of a finite quiver by an admissible ideal of relations. The goal of this thesis is to explore this theorem and its variants for non-algebraically closed fields and/or finite length categories. 
+
+#### Quasi-hereditary structures on hereditary algebras
+
+Prerequisites: _Modules and Homological Algebra, possibly Lie algebras_
+
+The prototypical example of a hereditary algebra is the path algebra of a finite acyclic quiver. It is hereditary in the sense that submodules of projective modules inherit the property of being projective. The class of quasi-hereditary algebras generalises the class of hereditary algebras, in particular the acyclicity of the quiver, encoded by a total order on the set of simple modules. This class of algebras is important in Lie theory as it comes with a class of standard modules resembling the properties of Verma modules. Hereditary algebras are precisely the algebras which are quasi-hereditary with respect to every total order. However, different total orders can yield the same standard modules. The goal of this project is to explore recent work of Flores, Kimura, and Rognerud as well as work of Rodriguez Rasmussen counting quasi-hereditary structures giving rise to different standard modules.    
+
 ### More exotic representation theory
-
-#### $$\mathbb{F}_1$$-representation theory
-
-Prerequisites: _Modules and Homological Algebra_ 
-
-Early on, one learns about vector spaces over the real numbers. In later courses, vector spaces over finite fields are also considered. However, a field generally has at least two elements, $$0$$ and $$1$$, which are assumed to be distinct. In some areas of modern mathematics, the concept of a "field with one element" has appeared. This is not an actual object, but more of a guiding principle. While in more advanced settings, it is not even clear what the definitions in this theory are, there is some agreement that a vector space over the "field with one element" is just a pointed sets. The goal of this project is to review the theory of representation theory of quivers over $$\mathbb{F}_1$$. 
 
 #### Representations of continuous quivers
 
@@ -188,3 +180,9 @@ Crawley-Boevey and Igusa--Rock--Todorov recently discussed the representation th
 Prerequisites: _Modules and Homological Algebra_
 
 It is well-known that a small $$\Bbbk$$-linear category can equivalently be described by an algebra with enough idempotents. In 2016/17 Manuel Saorín wrote a paper generalising this to differential graded categories, i.e. categories with a self linear map $$d$$ such that $$d$$ satisfies the product rule, and $$d^2=0$$ (this is called a differential). The goal of this thesis project is to generalise this result even further to $$A_\infty$$-categories and develop a notion of $$A_\infty$$-algebra with enough idempotents. 
+
+#### $$A_\infty$$-structures on Ext-algebras of simples
+
+Prerequisites: _Modules and Homological Algebra_
+
+The notion of an $$A_\infty$$-algebra is a generalisation of the notion of a differential graded algebra (that is a graded algebra together with a self linear map $$d$$such that $$d$$ satisfies the proeduct rule, and $$d^2=0$$). According to a result of Kadeishvili, one can put an $$A_\infty$$-structure on the Ext-algebra of the direct sum of all simple modules. According to work of Keller--Lefevre-Hasegawa this is related to the quiver and relations of an algebra via a concept called $$A_\infty$$-Koszul duality, a theory that is not only important in algebra but also in symplectic geometry. The goal of this thesis is to explore this relationship in examples. 
