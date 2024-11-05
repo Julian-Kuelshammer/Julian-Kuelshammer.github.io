@@ -37,6 +37,15 @@ Work experience
   * Docent title (roughly equivalent to German habilitation): 31.05.2022. [Docent lecture slides on Catalan combinatorics](/files/catalan_combinatorics.pdf)
   * Parental leave 50&#37;: September 2022--June 2023
 
+Academic distinctions
+=====
+* International Conference on Representations of Algebras (ICRA) 2018 Award
+
+Research grants
+======
+* January 2025 -- December 2028: VR project grant
+  * Total: 4080000 SEK 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -68,9 +77,7 @@ As Teaching Assistant
   {% endif %}
   {% endfor %}</ul>
 
-Academic distinctions
-=====
-* International Conference on Representations of Algebras (ICRA) 2018 Award
+
   
 Service
 ======
