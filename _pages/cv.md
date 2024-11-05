@@ -43,7 +43,7 @@ Academic distinctions
 
 Research grants
 ======
-* January 2025 -- December 2028: VR project grant
+* January 2025 -- December 2028: VR project grant "Quivers, exact categories, and A-infinity algebras"
   * Total: 4080000 SEK 
 
 Publications
