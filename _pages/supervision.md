@@ -100,6 +100,12 @@ Fermat's last theorem deals with the famous equation $$x^n+y^n=z^n$$. It was fin
 
 ### Abstract algebra
 
+#### Goursat's lemma
+
+Prerequisites: _Linear algebra III or Algebraic structures_
+
+Depending on the version, Goursat's lemma gives a description of the subgroups (resp. subspaces) of a direct product of groups (resp. vector spaces). in terms of an isomorphism between factor groups (quotient vector spaces) of the respective factors. The goal of the thesis is to outline a proof of this theorem in one or both of the settings, depending on the student's prerequisites. If time permits, applications in abstract algebra can be discussed. 
+
 #### Lüroth's theorem
 
 Prerequisites: _Algebraic structures_
