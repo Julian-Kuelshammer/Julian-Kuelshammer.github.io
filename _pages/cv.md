@@ -36,6 +36,7 @@ Work experience
   * Parental leave 100&#37;: January--August 2021
   * Docent title (roughly equivalent to German habilitation): 31.05.2022. [Docent lecture slides on Catalan combinatorics](/files/catalan_combinatorics.pdf)
   * Parental leave 50&#37;: September 2022--June 2023
+  * [Distinguished University teacher](https://www.uu.se/en/staff/faculty/science-and-technology/recruitment-promotion-and-merit/promotion-docent-and-distinguished-teacher/distinguished-university-teachers): 12.12.2025.
 
 Academic distinctions
 =====
@@ -52,11 +53,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
@@ -85,3 +82,9 @@ Service
 * Director of [Postgraduate Studies in Mathematics](https://www.uu.se/en/department/mathematics/study/phd-studies) at Uppsala University (2024--2026)
 * Maintainer of [FDLIST](https://fdlist.math.uni-bielefeld.de/)
 * Organiser of [FD Seminar](https://www.fd-seminar.xyz/) (2020-2024)
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
