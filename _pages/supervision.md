@@ -24,7 +24,7 @@ Main supervisor
     * [Uniqueness up to inner automorphism of regular exact Borel subalgebras](https://arxiv.org/abs/2403.15580), Preprint 2024.
 * [Jonathan Lindell](https://katalog.uu.se/profile/?id=N20-1265) (2023-- )
   * Publications:
-    * (together with [Lleonard Rubio y Degrassi](https://lleonardrubioydegrassi.wordpress.com/))[On the first relative Hochschild cohomology and contracted fundamental group](https://arxiv.org/abs/2411.03080), Preprint 2024.
+    * (together with [Lleonard Rubio y Degrassi](https://lleonardrubioydegrassi.wordpress.com/)) [On the first relative Hochschild cohomology and contracted fundamental group](https://arxiv.org/abs/2411.03080), Preprint 2024.
 
 
 Co-supervisor
