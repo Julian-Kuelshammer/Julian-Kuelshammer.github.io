@@ -80,6 +80,11 @@ Prerequisites: _Linear algebra II, or better Linear algebra III._
 
 In basic undergraduate courses, linear algebra is developed over a ground field (or even a specific field like the real or complex numbers). The goal of this thesis project is to investigate theorems that still hold when one generalises to skew fields (that is one drops the assumption that the scalars commute), and also to study counterexamples to theorems that no longer hold in this setup, e.g. the transpose of an invertible matrix is not necessarily invertible. 
 
+#### Lefschetz linear algebra
+Prerequisites: _Linear algebra III, Algebra II; possible Affine and projective geometry._
+
+To the joint zero set of a family of polynomials over the complex numbers, one can associate a ring, its coordinate ring. This ring is at the same time a complex vector space. Deep geometric insights about the geometric joint zero set like Poincaré duality can then be formulated in terms of linear algebra and bilinear forms. This linear algebra setup then also is useful to study advanced topics that are not immediately related to geometry, like representations of Lie algebras or the theory of matroids. The purpose of the thesis is to investigate this linear algebra setup. If progress is fast, part of the applications can be explored. 
+
 ### Number theory
 
 #### Primes is in P 
