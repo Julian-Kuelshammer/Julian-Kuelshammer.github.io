@@ -178,13 +178,19 @@ Prerequisites: _Modules and Homological Algebra, possibly Lie algebras_
 
 The prototypical example of a hereditary algebra is the path algebra of a finite acyclic quiver. It is hereditary in the sense that submodules of projective modules inherit the property of being projective. The class of quasi-hereditary algebras generalises the class of hereditary algebras, in particular the acyclicity of the quiver, encoded by a total order on the set of simple modules. This class of algebras is important in Lie theory as it comes with a class of standard modules resembling the properties of Verma modules. Hereditary algebras are precisely the algebras which are quasi-hereditary with respect to every total order. However, different total orders can yield the same standard modules. The goal of this project is to explore recent work of Flores, Kimura, and Rognerud as well as work of Rodriguez Rasmussen counting quasi-hereditary structures giving rise to different standard modules.    
 
+#### Locally representation-directed algebras
+
+Prerequisites: _Modules and Homological Algebra_
+
+According to Schur's lemma, simple modules over an algebra have skew fields (division rings) as their endomorphism algebra. More generally, a finite-dimensional module is indecomposable if and only if its endomorphism ring is a local ring. The class of locally representation-directed algebras is the class of algebras for which every indecomposable module has a skew field as their endomorphism algebra. This includes semisimple algebras, but also path algebras of Dynkin quivers. These algebras recently also appeared in $$\tau$$-tilting theory. The purpose of this thesis is to explore this underexplored class of algebras.
+
 ### More exotic representation theory
 
 #### Representations of continuous quivers
 
 Prerequisites: _Modules and Homological Algebra_
 
-Crawley-Boevey and Igusa--Rock--Todorov recently discussed the representation theory of the real line, which can be seen as a type $\mathbb{A}$ continuous quiver. The goal of this thesis project is to review some of their work. 
+Crawley-Boevey and Igusa--Rock--Todorov recently discussed the representation theory of the real line, which can be seen as a type $$\mathbb{A}$$ continuous quiver. The goal of this thesis project is to review some of their work. 
 
 ### Advanced homological algebra
 
