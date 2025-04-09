@@ -21,7 +21,9 @@ Main supervisor
   * Licenciate thesis: [Quasi-hereditary skew group algebras](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-516595)
   * Publications:
     * [Quasi-hereditary skew group algebras](https://arxiv.org/abs/2305.06825), Preprint 2023.
-    * [Uniqueness up to inner automorphism of regular exact Borel subalgebras](https://arxiv.org/abs/2403.15580), Preprint 2024.
+    * [Uniqueness up to inner automorphism of regular exact Borel subalgebras](https://arxiv.org/abs/2403.15580), Adv. Math. 461 (2025).
+    * [Exact Borel subalgebras of quasi-hereditary monomial algebras](https://arxiv.org/abs/2504.01706), Preprint 2025.
+    * [Exact Borel subalgebras of tensor algebras of quasi-hereditary algebras](https://arxiv.org/abs/2504.01711), Preprint 2025.
 * [Jonathan Lindell](https://katalog.uu.se/profile/?id=N20-1265) (2023-- )
   * Publications:
     * (together with [Lleonard Rubio y Degrassi](https://lleonardrubioydegrassi.wordpress.com/)) [On the first relative Hochschild cohomology and contracted fundamental group](https://arxiv.org/abs/2411.03080), Preprint 2024.
