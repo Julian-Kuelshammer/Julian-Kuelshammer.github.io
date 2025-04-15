@@ -81,7 +81,8 @@ Service
 * Programme Coordinator for the [Master Programme in Mathematics](https://www.uu.se/en/admissions/master/selma/program/?pKod=TMA2M) at Uppsala University (2020--2023)
 * Director of [Postgraduate Studies in Mathematics](https://www.uu.se/en/department/mathematics/study/phd-studies) at Uppsala University (2024--2026)
 * Maintainer of [FDLIST](https://fdlist.math.uni-bielefeld.de/)
-* Organiser of [FD Seminar](https://www.fd-seminar.xyz/) (2020-2024)
+* Organiser of [FD Seminar](https://www.fd-seminar.xyz/) (2020--2024)
+* Editor for [Communications in Algebra](https://www.tandfonline.com/journals/lagb20/about-this-journal#editorial-board) (April 2025--)
 
 Talks
 ======
