@@ -54,7 +54,7 @@ Former master students
 * [Jonathan Lindell](https://www.katalog.uu.se/profile/?id=N20-1265) (2022) [Relative Hochschild (co)homology](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-515067)
 * [Mika Norlén Jäderberg](https://liu.se/medarbetare/mikno49) (2023) [The Ext-Algebra of Standard Modules of Bound Twisted Double Incidence Algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1785822)
 * [Staffan Leijnse](https://se.linkedin.com/in/staffan-leijnse-73b98744) (2023) [Persistent Homology: A Modern Application of Algebraic Topology in Data Analysis](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-520694)
-* [Eleazar Neamat](https://www.linkedin.com/in/eleazar-neamat) (2025) Representation Theory of Quivers Over the Field with One Element 
+* [Eleazar Neamat](https://www.linkedin.com/in/eleazar-neamat) (2025) [Representation Theory of Quivers Over the Field with One Element](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-553512) 
 
 Former bachelor students
 ======
