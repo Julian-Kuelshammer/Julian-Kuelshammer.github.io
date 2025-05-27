@@ -33,7 +33,6 @@ Co-supervisor
 ------
 
 * [Christoffer Söderberg](https://katalog.uu.se/profile/?id=N18-1430) (2019-- ), main supervisor: Martin Herschend.
-* [Mateusz Stroinski](https://katalog.uu.se/empinfo/?id=N20-1172) (2020-- ), main supervisor: Walter Mazorchuk.
 
 Former PhD students
 ======
