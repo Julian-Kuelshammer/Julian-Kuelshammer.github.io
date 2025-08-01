@@ -27,6 +27,7 @@ Main supervisor
 * [Jonathan Lindell](https://katalog.uu.se/profile/?id=N20-1265) (2023-- )
   * Publications:
     * (together with [Lleonard Rubio y Degrassi](https://lleonardrubioydegrassi.wordpress.com/)) [On the first relative Hochschild cohomology and contracted fundamental group](https://arxiv.org/abs/2411.03080), Preprint 2024.
+* [Samuel Odeberg Hollifeldt](https://www.uu.se/en/contact-and-organisation/staff?query=N22-2241) (2025-- )
 
 
 Co-supervisor
@@ -54,7 +55,7 @@ Former master students
 * [Mika Norlén Jäderberg](https://liu.se/medarbetare/mikno49) (2023) [The Ext-Algebra of Standard Modules of Bound Twisted Double Incidence Algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1785822)
 * [Staffan Leijnse](https://se.linkedin.com/in/staffan-leijnse-73b98744) (2023) [Persistent Homology: A Modern Application of Algebraic Topology in Data Analysis](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-520694)
 * [Eleazar Neamat](https://www.linkedin.com/in/eleazar-neamat) (2025) [Representation Theory of Quivers Over the Field with One Element](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-553512) 
-* [Zijing Liu](https://www.linkedin.com/in/zijing-liu-6452a22b6) (2025) Gabriel's theorem over truncated polynomial rings
+* [Zijing Liu](https://www.linkedin.com/in/zijing-liu-6452a22b6) (2025) [Gabriel's theorem over truncated polynomial rings](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-560807)
 
 Former bachelor students
 ======
@@ -194,6 +195,12 @@ According to Schur's lemma, simple modules over an algebra have skew fields (div
 Prerequisites: _Modules and Homological Algebra_
 
 Crawley-Boevey and Igusa--Rock--Todorov recently discussed the representation theory of the real line, which can be seen as a type $$\mathbb{A}$$ continuous quiver. The goal of this thesis project is to review some of their work. 
+
+#### Protoabelian and protoexact categories
+
+Prerequisites: _Modules and Homological algebra_
+
+Counting algebraic structures over fields with $$q$$ elements often yields polynomials that can be specialised to $$q=1$$ although there is no field with one element. Nevertheless, pointed sets with a certain notion of morphism function as a category of vector spaces over the non-existent field with one element. This category is an example of a protoabelian category, i.e. a category that has many features in common with an abelian category like the category of vector spaces, but is not additive. The goal of this thesis is to explore this notion and examples of this and extension-closed subcategories in it. 
 
 ### Advanced homological algebra
 
