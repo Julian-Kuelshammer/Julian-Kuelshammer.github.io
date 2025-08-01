@@ -20,8 +20,8 @@ Main supervisor
 * [Anna Rodriguez Rasmussen](https://katalog.uu.se/profile/?id=N21-1628) (2021-- )
   * Licenciate thesis: [Quasi-hereditary skew group algebras](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-516595)
   * Publications:
-    * [Quasi-hereditary skew group algebras](https://arxiv.org/abs/2305.06825), Preprint 2023.
-    * [Uniqueness up to inner automorphism of regular exact Borel subalgebras](https://arxiv.org/abs/2403.15580), Adv. Math. 461 (2025).
+    * [Quasi-hereditary skew group algebras](https://doi.org/10.1017/nmj.2024.11), Nagoya Math. J. 257, 1--44 (2025).
+    * [Uniqueness up to inner automorphism of regular exact Borel subalgebras](https://doi.org/10.1016/j.aim.2024.110049), Adv. Math. 461 (2025).
     * [Exact Borel subalgebras of quasi-hereditary monomial algebras](https://arxiv.org/abs/2504.01706), Preprint 2025.
     * [Exact Borel subalgebras of tensor algebras of quasi-hereditary algebras](https://arxiv.org/abs/2504.01711), Preprint 2025.
 * [Jonathan Lindell](https://katalog.uu.se/profile/?id=N20-1265) (2023-- )
