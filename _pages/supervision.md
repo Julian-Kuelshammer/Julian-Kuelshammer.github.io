@@ -123,6 +123,12 @@ Prerequisites: _Algebraic structures_
 
 For a field $$K$$ and the field of rational functions $$K(X)$$, Lüroth's theorem states that any intermediate field is of the form $$K(f(X))$$ for some rational function in $$X$$. The goal of the thesis is to outline a proof of this theorem. If time and motivation permits, applications of this theorem in geometry can be discussed. 
 
+#### Dedekind domains
+
+Prerequisites: _Algebra II necessary, Algebraic structures recommended_
+
+Dedekind domains are a certain generalisation of principal ideal domains. The easiest way to define them is that every non-zero proper ideal factors into a product of prime ideals. This makes the notion similar to that of a unique factorisation domain. Many other equivalent descriptions exist, one of them being the notion of a hereditary ring, such rings are important in the master course _Modules and homological algebra_. Typical examples of Dedekind domains are $$\mathbb{Z}[\sqrt{-5}]$$ and $$\mathbb{Q}[x,y]/(x^2+y^2-1)$$. The goal of the thesis is to explore this notion, proving equivalent characterisations and illustrating the notion by means of examples. 
+
 ### Category theory and homological algebra
 
 #### Adjunctions and monads
