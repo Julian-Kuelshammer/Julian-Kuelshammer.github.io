@@ -12,7 +12,7 @@ redirect_from:
 Current PhD students
 ======
 
-PhD projects in Sweden usually take about 5 years, including a 20% teaching load. Somewhere roughly in the middle, a licenciate thesis is handed in. PhD positions are usually advertised by the department in March of each year. Feel free to contact me via email if you are interested in writing a PhD thesis with me. 
+PhD projects in Sweden usually take about 5 years, including a 20% teaching load. Somewhere roughly in the middle, a licentiate thesis is handed in. PhD positions are usually advertised by the department in March of each year. Feel free to contact me via email if you are interested in writing a PhD thesis with me. 
 
 Main supervisor
 ------
@@ -27,6 +27,7 @@ Main supervisor
 * [Jonathan Lindell](https://katalog.uu.se/profile/?id=N20-1265) (2023-- )
   * Publications:
     * (together with [Lleonard Rubio y Degrassi](https://lleonardrubioydegrassi.wordpress.com/)) [On the first relative Hochschild cohomology and contracted fundamental group](https://arxiv.org/abs/2411.03080), Preprint 2024.
+    * [Corings, their dual rings and relative (co)Hochschild cohomology](https://arxiv.org/abs/2508.10668), Preprint 2025.
 * [Samuel Odeberg Hollifeldt](https://www.uu.se/en/contact-and-organisation/staff?query=N22-2241) (2025-- )
 
 
