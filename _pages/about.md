@@ -26,6 +26,6 @@ Algebra in Uppsala
 
 I am part of the Algebra, Logic and Representation theory group of Uppsala University which also includes [Seidon Alsaody](https://katalog.uu.se/profile/?id=N9-61), [Veronica Crispin](https://katalog.uu.se/empinfo/?id=N10-872), [Isac Hedén](https://sites.google.com/site/isacheden/), [Martin Herschend](http://www2.math.uu.se/~martinh/), [Hankyung Ko](https://sites.google.com/view/hankyung-ko/home), and [Walter Mazorchuk](http://www2.math.uu.se/~mazor/) as permanent staff, and currently one postdoc and 6 PhD students. 
 
-Currently, I supervise three PhD students, [Anna Rodriguez Rasmussen](https://sites.google.com/view/annarodriguezrasmussen) (since Fall 2021), [Jonthan Lindell](https://www.katalog.uu.se/profile/?id=N20-1265) (since Fall 2023), and [Samuel Odeberg Hollifeldt](https://www.uu.se/kontakt-och-organisation/personal?query=N22-2241) (since Fall 2025). PhD theses in mathematics in Sweden usually take 5 years (including a 20% teaching load).  
+Currently, I supervise three PhD students, [Anna Rodriguez Rasmussen](https://sites.google.com/view/annarodriguezrasmussen) (since Fall 2021), [Jonathan Lindell](https://www.katalog.uu.se/profile/?id=N20-1265) (since Fall 2023), and [Samuel Odeberg Hollifeldt](https://www.uu.se/kontakt-och-organisation/personal?query=N22-2241) (since Fall 2025). PhD theses in mathematics in Sweden usually take 5 years (including a 20% teaching load).  
 
 Our group organises a [biweekly algebra seminar](http://www2.math.uu.se/~mazor/seminar.html). 
