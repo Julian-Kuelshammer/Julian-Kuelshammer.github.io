@@ -8,6 +8,6 @@ excerpt: ''
 date: 2025-03-14
 venue: 'preprint, accepted at <i>Mathematische Zeitschrift</i>'
 paperurl: ''
-citation: 'Teresa Conde and Julian Külshammer (2025). &quot;Exact Borel subalgebras, idempotent quotients, and idempotent subalgebras.&quot; <i>Preprint, accpted at Mathematische Zeitschrift</i>.'
+citation: 'Teresa Conde and Julian Külshammer (2025). &quot;Exact Borel subalgebras, idempotent quotients, and idempotent subalgebras.&quot; <i>Preprint, accepted at Mathematische Zeitschrift</i>.'
 ---
 
