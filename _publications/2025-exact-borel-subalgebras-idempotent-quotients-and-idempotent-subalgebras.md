@@ -6,8 +6,8 @@ permalink: /publication/2025-exact-borel-subalgebras-idempotent-quotients-and-id
 authors: 'Teresa Conde and Julian Külshammer'
 excerpt: ''
 date: 2025-03-14
-venue: 'preprint'
+venue: 'preprint, accepted at <i>Mathematische Zeitschrift</i>'
 paperurl: ''
-citation: 'Teresa Conde and Julian Külshammer (2025). &quot;Exact Borel subalgebras, idempotent quotients, and idempotent subalgebras.&quot; <i>Preprint</i>.'
+citation: 'Teresa Conde and Julian Külshammer (2025). &quot;Exact Borel subalgebras, idempotent quotients, and idempotent subalgebras.&quot; <i>Preprint, accpted at Mathematische Zeitschrift</i>.'
 ---
 
