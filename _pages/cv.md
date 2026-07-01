@@ -37,6 +37,7 @@ Work experience
   * Docent title (roughly equivalent to German habilitation): 31.05.2022. [Docent lecture slides on Catalan combinatorics](/files/catalan_combinatorics.pdf)
   * Parental leave 50&#37;: September 2022--June 2023
   * [Distinguished University teacher](https://www.uu.se/en/staff/faculty/science-and-technology/recruitment-promotion-and-merit/promotion-docent-and-distinguished-teacher/distinguished-university-teachers): 12.12.2025.
+  * Parental leave: January 2026 (100&#37;), February 2026--May 2026 (25&#37;)
 
 Academic distinctions
 =====
