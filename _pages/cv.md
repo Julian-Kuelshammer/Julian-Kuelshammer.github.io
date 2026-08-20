@@ -87,6 +87,7 @@ Current
 * Suppleant member of [Electoral college](https://www.uu.se/en/staff/organisation-and-governance/structure-of-uppsala-university/the-electoral-college) of Uppsala University (2025--2028)
 * Maintainer of [FDLIST](https://fdlist.math.uni-bielefeld.de/)
 * Editor for [Mathematische Nachrichten](https://onlinelibrary.wiley.com/journal/15222616)
+* Editor for [Arkiv för matematik](https://www.mittag-leffler.se/publications/arkiv-for-matematik/)
 
 Former
 -----

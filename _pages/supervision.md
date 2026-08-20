@@ -17,36 +17,32 @@ PhD projects in Sweden usually take about 5 years, including a 20% teaching load
 Main supervisor
 ------
 
-* [Anna Rodriguez Rasmussen](https://sites.google.com/view/annarodriguezrasmussen) (2021-- )
-  * Licenciate thesis: [Quasi-hereditary skew group algebras](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-516595)
-  * Publications:
-    * [Quasi-hereditary skew group algebras](https://doi.org/10.1017/nmj.2024.11), Nagoya Math. J. 257, 1--44 (2025).
-    * [Uniqueness up to inner automorphism of regular exact Borel subalgebras](https://doi.org/10.1016/j.aim.2024.110049), Adv. Math. 461 (2025).
-    * [Exact Borel subalgebras of quasi-hereditary monomial algebras](https://arxiv.org/abs/2504.01706), Preprint 2025.
-    * [Exact Borel subalgebras of tensor algebras of quasi-hereditary algebras](https://arxiv.org/abs/2504.01711), Preprint 2025.
 * [Jonathan Lindell](https://katalog.uu.se/profile/?id=N20-1265) (2023-- )
+  * Licentiate thesis: [On the first relative Hochschild cohomology and contracted fundamental group](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-574461)
   * Publications:
     * (together with [Lleonard Rubio y Degrassi](https://lleonardrubioydegrassi.wordpress.com/)) [On the first relative Hochschild cohomology and contracted fundamental group](https://arxiv.org/abs/2411.03080), Preprint 2024.
     * [Corings, their dual rings and relative (co)Hochschild cohomology](https://arxiv.org/abs/2508.10668), Preprint 2025.
 * [Samuel Odeberg Hollifeldt](https://www.uu.se/en/contact-and-organisation/staff?query=N22-2241) (2025-- )
 
-
-Co-supervisor
-------
-
-* [Christoffer Söderberg](https://katalog.uu.se/profile/?id=N18-1430) (2019-- ), main supervisor: Martin Herschend.
-
 Former PhD students
 ======
 
 * [Markus Thuresson](https://katalog.uu.se/profile/?id=N18-1281) (2018--2023)
-  * Licenciate thesis: [The Ext-algebra of standard modules over dual extension algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1609927&dswid=7627)
+  * Licentiate thesis: [The Ext-algebra of standard modules over dual extension algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1609927&dswid=7627)
   * PhD thesis: [Ext-algebras of standard modules over quasi-hereditary algebras](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1749517&dswid=-8501)
   * Defense: 31/05/2023, Opponent: [Pierre-Guy Plamondon](https://lmv.math.cnrs.fr/laboratoire/annuaire/membres-du-laboratoire/pierre-guy-plamondon/), Committee: [Sira Gratz](https://pure.au.dk/portal/en/persons/sira-helena-gratz(7148d01f-b2d1-44e6-9376-529ddd3f5da0).html), [Ana Paula Santana](https://cmuc.mat.uc.pt/rdonweb/person/ppgeral.do?idpessoa=13), [Alexander Berglund](https://staff.math.su.se/alexb/)
   * Publications: 
     * [The Ext-algebra of standard modules over dual extension algebras](https://doi.org/10.1016/j.jalgebra.2022.05.011), J. Algebra 606, 2022.
     * (together with [Elin Persson Westin](https://sites.google.com/view/elin-persson-westin)) [Tilting modules and exceptional sequences for a family of dual extension algebras](https://rdcu.be/dbYNR), Algebras and Representation theory 26, 2023.
     * [Exact Borel subalgebras of path algebras of quivers of Dynkin type A](https://doi.org/10.1016/j.jpaa.2023.107554), Journal of Pure and Applied Algebra 228 (5), 2024.
+* [Anna Rodriguez Rasmussen](https://sites.google.com/view/annarodriguezrasmussen) (2021--2026)
+  * Licentiate thesis: [Quasi-hereditary skew group algebras](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-516595)
+  * PhD thesis: [Existence and uniqueness of exact Borel subalgebras](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-583900)
+  * Publications:
+    * [Quasi-hereditary skew group algebras](https://doi.org/10.1017/nmj.2024.11), Nagoya Math. J. 257, 1--44 (2025).
+    * [Uniqueness up to inner automorphism of regular exact Borel subalgebras](https://doi.org/10.1016/j.aim.2024.110049), Adv. Math. 461 (2025).
+    * [Exact Borel subalgebras of quasi-hereditary monomial algebras](https://arxiv.org/abs/2504.01706), Preprint 2025.
+    * [Exact Borel subalgebras of tensor algebras of quasi-hereditary algebras](https://arxiv.org/abs/2504.01711), J. Algebra 699 (2026).
 
 Former master students
 ======
