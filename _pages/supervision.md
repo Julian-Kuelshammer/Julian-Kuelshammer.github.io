@@ -120,12 +120,6 @@ Prerequisites: _Algebraic structures_
 
 For a field $$K$$ and the field of rational functions $$K(X)$$, Lüroth's theorem states that any intermediate field is of the form $$K(f(X))$$ for some rational function in $$X$$. The goal of the thesis is to outline a proof of this theorem. If time and motivation permits, applications of this theorem in geometry can be discussed. 
 
-#### Dedekind domains
-
-Prerequisites: _Algebra II necessary, Algebraic structures recommended_
-
-Dedekind domains are a certain generalisation of principal ideal domains. The easiest way to define them is that every non-zero proper ideal factors into a product of prime ideals. This makes the notion similar to that of a unique factorisation domain. Many other equivalent descriptions exist, one of them being the notion of a hereditary ring, such rings are important in the master course _Modules and homological algebra_. Typical examples of Dedekind domains are $$\mathbb{Z}[\sqrt{-5}]$$ and $$\mathbb{Q}[x,y]/(x^2+y^2-1)$$. The goal of the thesis is to explore this notion, proving equivalent characterisations and illustrating the notion by means of examples. 
-
 ### Category theory and homological algebra
 
 #### Adjunctions and monads
@@ -177,13 +171,7 @@ Each finite dimensional module over a finite dimensional algebra has a compositi
 
 Prerequisites: _Modules and Homological Algebra_
 
-Gabriel's structure theorem is one of the reasons why quivers are such a powerful tool within representation theory. It states that every finite-dimensional algebra over an algebraically closed field is Morita equivalent to the quotient of a path algebra of a finite quiver by an admissible ideal of relations. The goal of this thesis is to explore this theorem and its variants for non-algebraically closed fields and/or finite length categories. 
-
-#### Quasi-hereditary structures on hereditary algebras
-
-Prerequisites: _Modules and Homological Algebra, possibly Lie algebras_
-
-The prototypical example of a hereditary algebra is the path algebra of a finite acyclic quiver. It is hereditary in the sense that submodules of projective modules inherit the property of being projective. The class of quasi-hereditary algebras generalises the class of hereditary algebras, in particular the acyclicity of the quiver, encoded by a total order on the set of simple modules. This class of algebras is important in Lie theory as it comes with a class of standard modules resembling the properties of Verma modules. Hereditary algebras are precisely the algebras which are quasi-hereditary with respect to every total order. However, different total orders can yield the same standard modules. The goal of this project is to explore recent work of Flores, Kimura, and Rognerud as well as work of Rodriguez Rasmussen counting quasi-hereditary structures giving rise to different standard modules.    
+Gabriel's structure theorem is one of the reasons why quivers are such a powerful tool within representation theory. It states that every finite-dimensional algebra over an algebraically closed field is Morita equivalent to the quotient of a path algebra of a finite quiver by an admissible ideal of relations. The goal of this thesis is to explore this theorem and its variants for non-algebraically closed fields and/or finite length categories.    
 
 #### Locally representation-directed algebras
 
